@@ -1,0 +1,19 @@
+td {
+	padding: 5px;
+}
+img {
+	height:50%;
+}
+.zero-padding {
+	padding : 0px;
+}
+.employee-board {
+	padding: 5px; 
+	background: #eeefff;
+}
+.draw-bottom-border {
+	border-bottom : 1px solid #aaa;
+}
+a {
+	cursor:pointer;
+}
